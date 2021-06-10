@@ -4,8 +4,7 @@ Simple-Personal-website (Mobile Friendly)
 
 # How it's looking?
 
-[Check It...]()
-
+![Check It...](https://user-images.githubusercontent.com/57454543/121574561-ad4ced80-ca26-11eb-8def-1642e4566a9d.gif)
 
 
 # Technology Used (For Full Stack App):
